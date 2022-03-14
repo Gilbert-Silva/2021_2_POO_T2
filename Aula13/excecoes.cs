@@ -4,7 +4,6 @@ using System.IO;
 
 class Program {
   public static void Main() {
-    /*
     //int.Parse(null);
     string s = "C#";
     //Console.WriteLine(s[3]);
@@ -43,7 +42,6 @@ class Program {
     Console.WriteLine(t.Altura);
     // Xml
 
-    /*
     StreamWriter f = null;
     try {
       XmlSerializer xml = new XmlSerializer(typeof(Triangulo));
